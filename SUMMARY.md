@@ -4,10 +4,10 @@
 
 ## Foundations
 
-* [1. Colors](foundations/colors.md)
-* [2. Fonts](foundations/fonts.md)
-* [3. Grid & Layout](foundations/grid-and-layout.md)
-* [4. Data Visualization](foundations/data-visualization.md)
+* [Colors](foundations/colors.md)
+* [Fonts](foundations/fonts.md)
+* [Grid & Layout](foundations/grid-and-layout.md)
+* [Data Visualization](foundations/data-visualization.md)
 
 ## Components
 

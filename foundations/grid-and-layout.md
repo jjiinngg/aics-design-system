@@ -1,4 +1,4 @@
-# 3. Grid & Layout
+# Grid & Layout
 
 ## Grids
 

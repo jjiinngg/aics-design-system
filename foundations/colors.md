@@ -1,4 +1,4 @@
-# 1. Colors
+# Colors
 
 ## Brand Colors
 
