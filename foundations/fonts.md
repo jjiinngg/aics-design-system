@@ -8,11 +8,11 @@ For optimized functionality and readability of product design, **Open Sans** and
 
 ## Font Types
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2875%29.png)
 
 ## Font Sizes
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2870%29.png)
 
 ## Paragraphs
 

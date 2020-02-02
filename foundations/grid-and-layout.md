@@ -25,29 +25,29 @@
 
 #### • Landing Pages \(Full\)
 
-![Full](../.gitbook/assets/image.png)
+![Full](../.gitbook/assets/image%20%283%29.png)
 
 #### • Dashboard Pages \(1:3\)
 
-![1:3](../.gitbook/assets/image%20%2824%29.png)
+![1:3](../.gitbook/assets/image%20%2882%29.png)
 
 #### • Live View Pages \(2:1\)
 
-![2:1](../.gitbook/assets/image%20%283%29.png)
+![2:1](../.gitbook/assets/image%20%2812%29.png)
 
 #### • Special Forms \(1:1\)
 
-![1:1](../.gitbook/assets/image%20%2810%29.png)
+![1:1](../.gitbook/assets/image%20%2840%29.png)
 
 #### • Enroll Pages \(Full\)
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2859%29.png)
 
 ## Spacing
 
 #### • Vertical Spacing
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 #### • Horizontal Spacing
 
