@@ -21,14 +21,55 @@
 **Components**
 
 * [Buttons](components/buttons.md)
+  * Sizing
+  * Spacing
+  * Text Button and Text Link
+  * Button Group
 * [Dialogs](components/dialogs.md)
+  * Basic Dialog Box
+  * Media Box
+  * Simple Message
+  * Document / Agreement
+  * Confirmation Dialog
 * [Form Elements](components/form-elements.md)
+  * Text Field
+  * Text Area
+  * Checkbox
+  * Radio Button
+  * Dropdown / Select
+  * Date Picker
+  * Number Input
 * [Feedbacks](components/feedbacks.md)
+  * System Alerts
+  * Toast Messages
+  * UpgradesBadges
+    * Tag with icon
+    * List badge
+    * Digits
+  * Callout Tips
+    * Basic Tooltip
+    * Form field info
+    * Action info
+  * Progress
 * [Icons & Logo](components/icons-and-logo.md)
+  * Header product logo
+  * Icons
 * [Lists](components/lists.md)
+  * Basic List
+  * Stats Glance List
+  * Thumbnail List
+  * Expand / Collapse
+  * Cards
 * [Navigation](components/navigation.md)
+  * Header navigation bar \(Early version\)
+  * Side navigation bar \(New version\)
 * [Stats & Data](components/satts-and-data.md)
+  * Trending
+  * Pie Chart
+  * Bar Chart
 * [Tables](components/tables.md)
+  * Simple Table
+  * Big Table
 
 
 

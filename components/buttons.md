@@ -7,7 +7,7 @@ description: >-
 
 # Buttons
 
-## Sizes and Importance
+## Sizing
 
 ![](../.gitbook/assets/image%20%2843%29.png)
 
