@@ -63,7 +63,7 @@
 * [Navigation](components/navigation.md)
   * Header navigation bar \(Early version\)
   * Side navigation bar \(New version\)
-* [Stats & Data](components/satts-and-data.md)
+* [Stats & Data](components/stats-and-data.md)
   * Trending
   * Pie Chart
   * Bar Chart

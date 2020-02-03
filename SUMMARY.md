@@ -18,6 +18,6 @@
 * [Icons & Logo](components/icons-and-logo.md)
 * [Lists](components/lists.md)
 * [Navigation](components/navigation.md)
-* [Stats & Data](components/satts-and-data.md)
+* [Stats & Data](components/stats-and-data.md)
 * [Tables](components/tables.md)
 
